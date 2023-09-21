@@ -1,0 +1,26 @@
+{
+  "appType": "APP",
+  "short_name": "ui-design-system",
+  "name": "UI Design System",
+  "description": "Configure synchronization parameters for the DHIS2 Android App, customize appearance, add TEI Analytics items.",
+  "version": "2.3.1",
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "developer": {
+    "name": "UiO",
+    "email": "milagros@dhis2.org"
+  },
+  "manifest_generated_at": "Wed Sep 13 2023 11:40:09 GMT+0200 (Central European Summer Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}
